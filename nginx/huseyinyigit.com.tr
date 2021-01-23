@@ -1,6 +1,7 @@
   
 server {
     root /root/sites/huseyinyigit.com.tr;
+    index index.html;
     server_name huseyinyigit.com.tr www.huseyinyigit.com.tr;
     location / {
             # First attempt to serve request as file, then
